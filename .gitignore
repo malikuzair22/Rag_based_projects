@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Other test/temp files
+*.log
+*.tmp
+
+# Practice files - don't push
+conditional_edges.py
+langgraph_basic.py
+memory_chatbot.py
+multi_turn_chatbot.py
+tool_calling.py
